@@ -48,7 +48,10 @@
                             </li>
                             <li class="nav-item">
                             <a class="nav-link" href="#">Total Pricee:100/-</a>
-                            </li>    
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="#">Cob labyu Pricee:100/-</a>
+                            </li>  
                         </ul>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
